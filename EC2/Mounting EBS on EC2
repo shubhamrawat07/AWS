@@ -11,3 +11,7 @@ mount /dev/xvdb /test -> from this to this.
 
 to check if its mounted or not
 df -h
+
+to unmount
+
+umount /test
