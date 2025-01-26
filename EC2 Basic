@@ -1,5 +1,0 @@
-Create EC2
-Create Pair Key - PPK
-Launch
-Putty -> public IPV4 address -> Connection -> Auth -> Credentials -> select PPK file -> ec2-user -> sudo su 
-        
