@@ -4,7 +4,7 @@ sudo su -> root user
 df -h -> Disk Free, Human Readable (new volume will not be there, but will show all other disks)
 lsblk -> list information about block devices (in this we can see all the devices)
 --> NOW format and mount the block <--
- mkfs.exet4 /dev/xvdb -> format the block (xvdb is block name)
+ mkfs.ext4 /dev/xvdb -> format the block (xvdb is block name)
 before mounting we need to create a mount point in root directory create a folder then mount there
 mkdir /test -> make direcotry name as test
 mount /dev/xvdb /test -> from this to this.
