@@ -1,0 +1,6 @@
+Create Bucket.
+Before finalizing, disable all security and enable ACL. 
+Upload files.
+Select all the files that need to be hosted, then action->make public.
+In bucket proerties, enable static website and enter the opening(main) html file i.e. index.html
+open the main file and copy the URL.
